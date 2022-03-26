@@ -1,0 +1,68 @@
+body {
+    background-color:lightpink;
+}
+nav {
+    background-color: gray;
+    color: white;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+li {    
+    display: inline;
+    margin-left: 10px;
+}
+/* section {
+    display: flex;
+    flex-direction: row;
+    border:3px solid red;
+    width: 30%;
+} */
+
+.principal {
+    background-color: brown;
+}
+.alterno {
+    background-color: blue;
+    color: coral; 
+    border: solid 3px red;
+}
+.title {
+    
+}
+.about {
+    border: 3px solid red;
+}
+.cards {
+    border:3px solid red;
+    width: 46%;
+    margin: 10px;
+}
+.content {
+    border: 3px solid yellow;
+}
+.rightwide {
+    margin-left: 30%;
+    
+}
+.rightshort {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: solid 3px blue;
+    margin-left: 30%;
+    
+}
+.left {
+    border: solid 3px red;
+    width: 28%;
+    float: left;
+}
+
+img {
+    width: 100%;
+
+}
